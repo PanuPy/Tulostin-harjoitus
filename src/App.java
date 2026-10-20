@@ -10,7 +10,10 @@ public class App {
         int luku1 = 10;
         int luku2 = 20;
         int summa = luku1 + luku2;
+        int keskiarvo = summa / 2;
        System.out.println("Laskettuna luvut yhteensä "+ summa);
+
+       System.out.println("Lukujen keskiarvo " + keskiarvo);
 
     }
 }
