@@ -9,5 +9,8 @@ public class App {
 
         int luku1 = 10;
         int luku2 = 20;
+        int summa = luku1 + luku2;
+       System.out.println("Laskettuna luvut yhteensä "+ summa);
+
     }
 }
